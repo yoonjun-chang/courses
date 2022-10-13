@@ -1,0 +1,12 @@
+Question
+
+Write a query to show all districts for addresses.
+Query should show only one column: district.
+Remove duplicated rows.
+Display rows in ascending order.
+
+Please submit only the query as a text document in Moodle.
+
+SELECT DISTINCT district
+FROM public.address
+ORDER BY district ASC;
