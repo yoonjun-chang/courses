@@ -1,0 +1,8 @@
+Please list all movie Categories.
+
+Include only columns: category_id, name.
+
+
+SELECT DISTINCT district
+FROM public.address
+ORDER BY district ASC;
