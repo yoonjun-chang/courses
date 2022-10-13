@@ -14,7 +14,7 @@
 #-days: an integer representing the number of days.
 
 
-def competeCell(states,days):
+def cellCompete(states, days):
     while days != 0:
         if states[1] == 1:        #exception for index 1
             prev = states[0]
@@ -22,7 +22,7 @@ def competeCell(states,days):
         else:
             prev = states[0]
             states[0] = 0
-        for i in range(len(s) - 1):
+        for i in range(len(states) - 1):
             if i == 0:
                 continue
             if (prev == 0 and states[i+1] == 0) or (prev == 1 and states[i+1] == 1):
@@ -39,7 +39,6 @@ def competeCell(states,days):
 
     return states
 
-print(competeCell(s,s1))
 
 
 #Test case 1:
