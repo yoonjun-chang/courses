@@ -1,3 +1,5 @@
+#sample Amazon demo assessment problem #2
+
 #The greatest common divisor (GCD), also called highest common factor (HCF) of N numbers is the largest positive integer
 #that divides all numbers without giving a remainder.
 #Write an algorithm to determine the GCD of N positive integers
