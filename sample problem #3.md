@@ -1,4 +1,6 @@
 ![sampleproblem#3image](https://user-images.githubusercontent.com/114261966/195918553-522aae08-4e0f-4160-bfbe-d7241931c45e.png)
+
+
 ABC is a right triangle, 90° at B.
 Therefore, ∠ABC = 90°.
 
