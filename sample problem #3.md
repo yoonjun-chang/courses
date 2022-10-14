@@ -10,3 +10,17 @@ Input Format
 
 The first line contains the length of side AB.
 The second line contains the length of side BC.
+
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+import math
+
+ab = int(input())
+bc = int(input())
+
+
+hyp = math.hypot(ab,bc)
+hyp = hyp/2
+adj = bc/2
+
+print(round(math.degrees(math.acos(adj/hyp))),end='\u00B0')
+
