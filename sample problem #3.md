@@ -11,7 +11,7 @@ Input Format
 The first line contains the length of side AB.
 The second line contains the length of side BC.
 
-# Enter your code here. Read input from STDIN. Print output to STDOUT
+Enter your code here. Read input from STDIN. Print output to STDOUT
 import math
 
 ab = int(input())
