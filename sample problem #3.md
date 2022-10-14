@@ -12,11 +12,12 @@ The first line contains the length of side AB.
 The second line contains the length of side BC.
 
 Enter your code here. Read input from STDIN. Print output to STDOUT
+
+
 import math
 
 ab = int(input())
 bc = int(input())
-
 
 hyp = math.hypot(ab,bc)
 hyp = hyp/2
