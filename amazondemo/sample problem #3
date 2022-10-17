@@ -20,6 +20,9 @@ for i in range(dimension):
 flower_grid = []
 for j in range(dimension):
     flower_grid.append(list(grid))
+    
+#creating two-dimensinal array using comprehension
+flower_grid = [[' ' for i in range(dimension)] for j in range(dimension)]
 
 low = n-1
 high = n
