@@ -1,4 +1,4 @@
-While strolling in a garden, you came across a pattern of flowers. It g oes as follows:
+While strolling in a garden, you came across a pattern of flowers. It goes as follows:
 The shape of the pattern is a square.
 The pattern consists of variety of flowers. Let's represent each type of lower by an alphabet.
 If a single flower type is used, then we use 'A' to represent the flower and the pattern is 2*2 grid with all 'A's:
