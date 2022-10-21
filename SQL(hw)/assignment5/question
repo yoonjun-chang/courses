@@ -1,0 +1,6 @@
+Question
+
+Please write a query for dvdrental database.
+This query should return list of all customers who rented “Timberland Sky” movie.
+Return following columns: customer_id, first_name, last_name, rental_date.
+Sort returned rows from the oldest rental date to newest.
