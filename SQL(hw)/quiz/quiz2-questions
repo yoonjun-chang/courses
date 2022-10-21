@@ -1,0 +1,26 @@
+Question 1
+
+Please write a query for dvdrental database.
+Please list all the customers. For each customer display following information:
+•	Customer Id
+•	First Name
+•	Last Name
+•	How much this customer paid in March 2007
+•	How much this customer paid in April 2007
+•	How much this customer paid in in May 2007
+Final query should have 6 columns, one row for each customer
+Sort results by customer last name.
+Please submit only the query as a .sql file in Moodle.
+
+Question 2
+Please write a query for dvdrental database.
+Please list all the customers. For each customer display following information:
+•	Customer Id
+•	First Name
+•	Last Name
+•	Rental price for most expensive movie rented in May 2005 by this customer
+•	Rental price for most expensive movie rented in June 2005 by this customer
+•	Rental price for most expensive movie rented in July 2005 by this customer
+Final query should have 6 columns, one row for each customer
+For rental price use “rental_rate” column from film table.
+Sort results by customer last name.
