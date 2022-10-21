@@ -1,0 +1,13 @@
+Question 1
+
+Please write a query for dvdrental database.
+Please list all actors with first names: Penelope or Kenneth.
+Include following columns: actor_id, first_name, last_name
+Please sort rows by last name.
+
+Question 2
+
+Please write a query for dvdrental database.
+Please list first names of actors starting with letter C.
+Include only first names, remove duplicated rows.
+Please sort rows by first name.
