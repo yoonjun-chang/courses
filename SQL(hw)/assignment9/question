@@ -1,0 +1,9 @@
+Question
+
+Please write a query for dvdrental database.
+Please calculate following information for August 2005:
+•	How many movies was rented each day
+•	How many unique customers were served each day.
+o	If one customer rented 2 movies on the same day, should be counted just once.
+Final query should have 3 columns: date, number of movies, number of customers
+Sort results by date.
