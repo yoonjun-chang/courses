@@ -1,0 +1,18 @@
+Question
+
+Please write a query for dvdrental database.
+Please list all the customers. For each customer display following information:
+•	Customer Id
+•	First Name
+•	Last Name
+•	Most recent movie rented in May 2005 by this customer. For each include:
+o	Movie title
+o	Date when it was rented
+•	Most recent movie rented in June 2005 by this customer. For each include:
+o	Movie title
+o	Date when it was rented
+•	Most recent movie rented in July 2005 by this customer. For each include:
+o	Movie title
+o	Date when it was rented
+Final query should have 9 columns, one row for each customer
+Sort results by customer last name (A to Z) .
