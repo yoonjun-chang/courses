@@ -1,3 +1,9 @@
+
+
+
+
+
+
 def cellCompete(states, days):
     while days != 0:
         if states[1] == 1:        #exception for index 1
