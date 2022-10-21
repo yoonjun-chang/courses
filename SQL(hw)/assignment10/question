@@ -1,0 +1,12 @@
+Question
+
+Please write a query for dvdrental database.
+Please list all the customers. For each customer display following information:
+•	Customer Id
+•	First Name
+•	Last Name
+•	How many movies was rented in May 2005 by this customer
+•	How many movies was rented in June 2005 by this customer
+•	How many movies was rented in July 2005 by this customer
+Final query should have 6 columns, one row for each customer
+Sort results by customer last name.
