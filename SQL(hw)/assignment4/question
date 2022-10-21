@@ -1,0 +1,6 @@
+Question
+
+Please write a query for dvdrental database.
+This query should return all addresses in Texas (district).
+Return following columns: address_id, address, address2, district, city_id, postal_code,
+Sort returned rows by address.
