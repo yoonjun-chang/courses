@@ -1,2 +1,2 @@
-# school-repo
-works from school projects, etc
+# For school courses
+## contains hw,notes,quizzes, projects, tests, etc
